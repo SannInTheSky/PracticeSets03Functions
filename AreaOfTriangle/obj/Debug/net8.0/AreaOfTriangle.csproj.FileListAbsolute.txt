@@ -1,0 +1,15 @@
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\obj\Debug\net8.0\AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\obj\Debug\net8.0\AreaOfTriangle.AssemblyInfoInputs.cache
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\obj\Debug\net8.0\AreaOfTriangle.AssemblyInfo.cs
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\obj\Debug\net8.0\AreaOfTriangle.csproj.CoreCompileInputs.cache
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\obj\Debug\net8.0\AreaOfTriangle.sourcelink.json
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\bin\Debug\net8.0\AreaOfTriangle.exe
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\bin\Debug\net8.0\AreaOfTriangle.deps.json
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\bin\Debug\net8.0\AreaOfTriangle.runtimeconfig.json
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\bin\Debug\net8.0\AreaOfTriangle.dll
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\bin\Debug\net8.0\AreaOfTriangle.pdb
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\obj\Debug\net8.0\AreaOfTriangle.dll
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\obj\Debug\net8.0\refint\AreaOfTriangle.dll
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\obj\Debug\net8.0\AreaOfTriangle.pdb
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\obj\Debug\net8.0\AreaOfTriangle.genruntimeconfig.cache
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\AreaOfTriangle\obj\Debug\net8.0\ref\AreaOfTriangle.dll

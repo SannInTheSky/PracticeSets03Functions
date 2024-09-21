@@ -1,0 +1,15 @@
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\obj\Debug\net8.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\obj\Debug\net8.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\obj\Debug\net8.0\LeapYear.AssemblyInfo.cs
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\obj\Debug\net8.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\obj\Debug\net8.0\LeapYear.sourcelink.json
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\bin\Debug\net8.0\LeapYear.exe
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\bin\Debug\net8.0\LeapYear.deps.json
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\bin\Debug\net8.0\LeapYear.runtimeconfig.json
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\bin\Debug\net8.0\LeapYear.dll
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\bin\Debug\net8.0\LeapYear.pdb
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\obj\Debug\net8.0\LeapYear.dll
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\obj\Debug\net8.0\refint\LeapYear.dll
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\obj\Debug\net8.0\LeapYear.pdb
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\obj\Debug\net8.0\LeapYear.genruntimeconfig.cache
+C:\Users\rezle\OneDrive\Desktop\Grace\PracticeSets03Functions\LeapYear\obj\Debug\net8.0\ref\LeapYear.dll
